@@ -1,0 +1,5 @@
+package com.vijump.controller;
+
+public class HomeController {
+
+}
